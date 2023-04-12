@@ -33,3 +33,7 @@ EQUIPO:
 
  ENLACE AL REPOSITORIO PRINCIPAL DE TRABAJO:
  Aracily Morales -> https://github.com/aaracily/Calculadora-jQuery.git
+
+ ENLACE A REPOSITORIO REMOTO PERSONAL
+
+ RICARDO CEA -> https://github.com/Richarx2x/calculadora.frontend.git
